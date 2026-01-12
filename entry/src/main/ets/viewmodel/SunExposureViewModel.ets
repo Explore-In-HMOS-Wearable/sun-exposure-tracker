@@ -87,7 +87,7 @@ export class SunExposureViewModel {
     try {
       vibrator.startVibration({
         type: 'time',
-        duration: 1000,
+        duration: 1000
       }, {
         id: 0,
         usage: 'alarm'

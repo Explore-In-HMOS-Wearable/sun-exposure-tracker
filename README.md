@@ -6,10 +6,10 @@ This is a specialized health and safety application designed to monitor environm
 # Preview
 
 <div>
-    <img src="screenshots/2_1_o.jpg" width="24%" />
-    <img src="screenshots/2_2_o.jpg" width="24%" />
-    <img src="screenshots/2_3_o.jpg" width="24%" />
-    <img src="screenshots/2_4_o.jpg" width="24%" />
+<img src="screenshots/2_1_o.jpg" width="24%" />
+<img src="screenshots/2_2_o.jpg" width="24%" />
+<img src="screenshots/2_3_o.jpg" width="24%" />
+<img src="screenshots/2_4_o.jpg" width="24%" />
 </div>
 
 # Use Cases
